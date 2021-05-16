@@ -1,0 +1,12 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+* @antoniaelek
+
+# The `docs/*` pattern will match files like
+# `docs/getting-started.md` but not further nested files like
+# `docs/build-app/troubleshooting.md`.
+/apis/userprofile/  @IvanMarkovic
+/apis/poi/  @antoniaelek
+/apis/trips/  @debiaggi
+/apis/user-java/  @debiaggi
