@@ -14,7 +14,7 @@ namespace poi.Models
 
     public class POI : BaseDataObject
     {
-        //BOZE DRAGI
+        //BOZE DRAGI 12
         public string TripId { get; set; }
         public double Latitude { get; set; }
         public double Longitude { get; set; }
